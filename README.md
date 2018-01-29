@@ -1,10 +1,12 @@
-# Repository demo
-Probando la instalación y configuración de Git.
+# Repository Demo
+
+InstalaciÃ³n, configuraciÃ³n y primeras actividades con Git.
+
 
 
 # Actividades
 
 - Creando los repositorios remoto y local [OK]
 - Trabajandocon el repositorio [OK]
-- Conectando con github [OK]
+- Conectando con Github [OK]
 - Actualiza los datos [OK]
