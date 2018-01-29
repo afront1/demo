@@ -2,7 +2,7 @@
 Probando la instalación y configuración de Git.
 
 
-# Actividades #
+# Actividades
 
 - Creando los repositorios remoto y local [OK]
 - Trabajandocon el repositorio [OK]
