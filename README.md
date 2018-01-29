@@ -1,6 +1,6 @@
 # Repository Demo
 
-InstalaciÃ³n, configuraciÃ³n y primeras actividades con Git.
+Instalación, configuración y primeras actividades con Git.
 
 
 
